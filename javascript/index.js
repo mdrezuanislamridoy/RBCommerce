@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     loadComponent("onSale", "/components/onSaleNow.html");
     loadComponent("newArrival", "/components/NewArraival.html");
     loadComponent("trending", "/components/trendingProducts.html");
+    loadComponent("contact", "/components/contactUs.html");
     loadComponent("about", "/components/about.html");
     loadComponent("trustAndPayment", "/components/trustAndPayment.html");
     loadComponent("footer", "/components/footer.html");
