@@ -1,4 +1,3 @@
-//function for fetching and setting components
 const loadComponent = (targetId, componentFilePath) => {
   fetch(componentFilePath)
     .then((response) => response.text())
